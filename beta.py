@@ -19,7 +19,7 @@ def show_intro_with_ascii_colored():
     ascii_art = """
 [bold cyan]██████╗ ███████╗████████╗ █████╗     [/bold cyan]
 [bold cyan]██╔══██╗██╔════╝╚══██╔══╝██╔ ═██╗    [/bold cyan]
-[bold cyan]██████╔╝█████╗     ██║    ███████║    [/bold cyan]
+[bold cyan]██████╔╝█████╗     ██║   ███████║    [/bold cyan]
 [bold cyan]██╔══██╗██╔══╝     ██║   ██╔══██║    [/bold cyan]
 [bold cyan]██████╔╝███████╗   ██║   ██║  ██║    [/bold cyan]
 [bold cyan]╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝    [/bold cyan]
