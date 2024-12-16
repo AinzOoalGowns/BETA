@@ -30,7 +30,7 @@ def show_intro_with_ascii_colored():
     console.print("👨‍💻 Dikembangkan oleh [bold magenta]Elaine Seraphina[/bold magenta]")
     console.print("📅 Versi: [bold yellow]1.0.0[/bold yellow] | 16 Desember 2024")
     console.print("=" * 50, style="bold green")
-    input("Tekan [bold cyan]Enter[/bold cyan] untuk memulai...")
+    input("Tekan [bold cyan] Enter [/bold cyan] untuk memulai...")
 
 # Fungsi untuk memeriksa apakah script dijalankan dari repositori GitHub
 def check_git_repository():
